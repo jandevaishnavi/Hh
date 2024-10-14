@@ -11,7 +11,7 @@ var s = document.querySelector('.q1');
 
 */
 
-let n=prompt("enter your name");
+let n=prompt("Welcome to Kbcquiz game created by vaishnavi jande ,enter your name");
 //document.write(n);
 
  function q1() {
