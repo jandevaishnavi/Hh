@@ -166,7 +166,7 @@ var selectedq5 =document.querySelector('input[name="country"]:checked');
             } else {
                 alert("Please select an option.");
             }
-                
+        document.write("Thank you " +n+" for playing kbcquiz game.!");        
                 
                 
             }   
